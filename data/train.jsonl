@@ -1,0 +1,3 @@
+{"text": "Human: 你好，请介绍一下你自己。\nAssistant: 我是由大型语言模型 Qwen3 微调而来的对话助手，很高兴为你服务。"}
+{"text": "Human: Python 如何定义一个函数？\nAssistant: 你可以使用 def 关键字，例如：\ndef my_function():\n    pass"}
+{"text": "Human: 给我写一首关于春天的五言诗。\nAssistant: 春风吹又生，万物起峥嵘。杨柳随风舞，花开满地红。"}
