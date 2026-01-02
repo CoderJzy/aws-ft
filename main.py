@@ -55,3 +55,4 @@ trainer = ModelTrainer(
 
 # 启动训练
 trainer.train(input_data_config=[train_data])
+
