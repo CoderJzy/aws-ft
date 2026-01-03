@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "datasets>=4.4.2",
+    "debugpy>=1.8.19",
     "modelscope>=1.32.0",
     "peft>=0.18.0",
     "python-lsp-server[all]>=1.14.0",
